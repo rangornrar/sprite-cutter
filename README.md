@@ -115,9 +115,12 @@ Si vous cochez l'option "Générer JSON", vous obtiendrez un fichier structuré 
 }
 ```
 ## ⌨️ Raccourcis Clavier
-| Action | Raccourci
-| Zoom Avant/Arrière | Molette Souris
-| Panoramique (Déplacer) | Clic Molette (Maintenir) OU Shift + Clic Gauche
-| Sélectionner/Désélectionner | Clic Gauche sur une tuile
+| Action | Raccourci | 
+|:-------- |:--------:| 
+| Zoom Avant/Arrière | Molette Souris | 
+| Panoramique (Déplacer) | Clic Molette (Maintenir) OU Shift + Clic Gauche | 
+| Sélectionner/Désélectionner | Clic Gauche sur une tuile | 
 
-##📝 LicenceCe projet est libre de droits pour un usage personnel et éducatif.Développé avec ❤️ en Python.
+## 📝 Licence
+Ce projet est libre de droits pour un usage personnel et éducatif.
+Développé avec ❤️ en Python.
