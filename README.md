@@ -1,5 +1,8 @@
 # Ultimate Sprite Cutter ✂️
 
+> **État du dépôt : implémentation manquante.** Le fichier `sprite_cutter.py` actuellement publié est vide, y compris dans l’historique disponible. Les fonctionnalités ci-dessous décrivent l’objectif du projet ; cette version ne permet pas de lancer une application.
+
+
 **Ultimate Sprite Cutter** est une application de bureau écrite en Python (Tkinter) conçue pour découper des **Sprite Sheets**, des **Tilesets** ou des grilles d'images en fichiers individuels.
 
 Contrairement aux outils basiques, il offre des fonctionnalités avancées pour les développeurs de jeux et les artistes : détection automatique des sprites (Smart Split), gestion des marges (padding/gap), prévisualisation d'animation et export de métadonnées JSON.
@@ -44,7 +47,7 @@ Contrairement aux outils basiques, il offre des fonctionnalités avancées pour 
 
 3.  Lancez l'application :
     ```bash
-    python super_sprite_cutter.py
+    python sprite_cutter.py
     ```
 
 ---
